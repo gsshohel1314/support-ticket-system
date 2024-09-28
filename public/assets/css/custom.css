@@ -1,0 +1,194 @@
+@font-face {
+    font-family: congenial;
+    src: url(../fonts/Congenial_Black.ttf);
+  }
+.mt_12{
+    margin-top: 12px;
+}
+.form-wrap.form-builder .frmb .prev-holder input[type=number] {
+    width: 100%!important;
+}
+.form-wrap.form-builder .frmb .prev-holder input[type=date] {
+    width: 100%!important;
+}
+.ml_10{
+    margin-left: 10px;
+}
+.mr_10{
+    margin-right: 10px;
+}
+.mt_10{
+    margin-top: 10px;
+}
+
+.text_logo{
+    color: #ffffff;
+    font-size: 32px;
+    font-family: congenial;
+    margin-top: 12px;
+}
+.text_40{
+    font-size: 40px;
+}
+.ml_5{
+    margin-left: 5px;
+}
+.mt_30{
+    margin-top: 30px;
+}
+.mt_20{
+    margin-top: 20px;
+}
+.mt_15{
+    margin-top: 15px;
+}
+.ml_15{
+    margin-left: 15px;
+}
+.mr_15{
+    margin-right: 15px;
+}
+.mb_15{
+    margin-bottom: 15px;
+}
+.mb_100{
+    margin-bottom: 100px;
+}
+.empty_microsite{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 200px;
+}
+
+.app-footer {
+    position: fixed;
+    left: 0!important;
+    bottom: 0!important;
+    width: 100%;
+    text-align: center;
+}
+.pb_100{
+    padding-bottom: 100px!important;
+}
+/* #zmmtg-root{
+	display: none!important;
+} */
+
+.mb_5{
+    margin-bottom: 5px;
+}
+.mb_20{
+    margin-bottom: 20px;
+}
+.mb_30{
+    margin-bottom: 30px;
+}
+
+.mb_100{
+    margin-bottom: 100px;
+}
+
+.h-270{
+    height: 270px;
+}
+
+.video-height {
+    width: 100%;
+    height: 390px;
+}
+.video-image{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.side-layout-height{
+    height: 390px;
+}
+
+.header-imgae-container{
+    width: 100%;
+    max-height: 250px;
+    object-fit: cover;
+}
+.test-border{
+    border: 1px solid red;
+}
+
+.logo-width-height {
+    width: 200px;
+    height: 200px;
+}
+
+.error-message {
+    margin-top: 100px;
+}
+
+a.paginate_disabled {
+    pointer-events: none;
+    cursor: default;
+}
+.mt_100{
+    margin-top: 100px;
+}
+.note-editor.note-frame .note-editing-area .note-editable {
+    background-color: #FFFFFF !important;
+}
+.note-editor.note-frame .note-editing-area .note-codable {
+    background-color: #222 !important;
+}
+.note-btn-group .dropdown-toggle::after {
+    display: none;
+}
+.note-modal-footer {
+    height: 60px!important;
+}
+.p_10{
+    padding: 10px!important;
+}
+.form-select-custome {
+    width: 200px !important;
+}
+.voting_modal{
+	background:#00000085!important;
+}
+.max_width_100{
+    /* max-width: 1700px!important; */
+    max-width: 100%;
+}
+.max_height_500{
+    max-height: 310px!important;
+}
+.stage-wrap{
+    border: 3px dashed #ccc;
+    padding: 10px;
+}
+
+.clear_filter{
+    font-size: 14px!important;
+    font-weight: 900!important;
+}
+
+#kt_app_sidebar_menu_wrapper .select2-container{
+    max-width: 200px;
+    z-index: 1000;
+}
+.mt_15{
+    margin-top: 15px;
+}
+.text-left{
+    text-align: left;
+}
+.text-normal{
+    white-space: normal;
+}
+.menu_item, .navbar-nav .select2-container--bootstrap5{
+    padding: calc(0.775rem + 1px) calc(0.7rem + 1px)!important;
+}
+.pb_10{
+    padding-bottom: 10px !important;
+}
+.event_des img{
+    max-width: 100% !important;
+}

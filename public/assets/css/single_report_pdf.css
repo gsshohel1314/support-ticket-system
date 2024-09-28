@@ -1,0 +1,42 @@
+.w-100 {
+    width: 100%;
+}
+.mt-3{
+    margin-top: 10px;
+}
+.d-flex-row{
+    display: flex;
+    flex-direction: row;
+}
+.me-3{
+    margin-left: 10px;
+}
+.fs-normal{
+    font-size: 16px;
+    font-weight: 600;
+}
+.fs-normal{
+    font-size: 16px;
+    font-weight: 600;
+}
+.fs-normal-input{
+    font-size: 16px;
+    font-weight: lighter;
+}
+.fs-normal-input:focus{
+    font-size: 16px;
+    font-weight: lighter;
+}
+.fs-normal{
+    font-size: 16px;
+    font-weight: lighter;
+}
+.p-3{
+    padding: 20px;
+}
+.p-3:focus{
+    border: none !important;
+}
+.w-20px{
+    width: 200px;
+}
